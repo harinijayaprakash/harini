@@ -10,6 +10,7 @@ GIT
 </head>
 <body>
 <a href="www.gmail.com">gmail</a>
+<a href="www.google.com">google</a>
 <p>i love u</p>
 <p style=color:red;">fuck this class</p>
 </html>
